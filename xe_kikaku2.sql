@@ -1,4 +1,4 @@
-CREATE TABLE SportsCenter_USER(
+CREATE TABLE SPORTSCENTER_USER(
 user_id number(10) primary key,
 user_name VARCHAR2(50) not null,
 email VARCHAR2(256) not null,
